@@ -17,8 +17,10 @@ The goal of this project is to provide a clear and beginner-friendly explanation
 
 - Introduction to Crypto
 - Blockchain Basics
+- Why Blockchain Is Secure
 - Wallets
 - Security
+
 
 ## Introduction to Crypto
 
