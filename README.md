@@ -1,3 +1,6 @@
+> Beginner-friendly open crypto education project.
+
+
 # Crypto Basics Guide
 
 This open-source guide explains cryptocurrency concepts in simple and clear language.
@@ -34,3 +37,4 @@ Everyone can see the records, but no one can secretly change them.
 
 Crypto can be used to send money to another country in minutes,
 without banks, delays, or high fees.
+
