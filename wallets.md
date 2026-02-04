@@ -63,3 +63,4 @@ Using crypto means being responsible for your own security.
 ## Summary
 
 Crypto wallets are essential tools for managing digital assets.
+Understanding wallet types and security practices helps protect your funds.
