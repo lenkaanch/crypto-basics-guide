@@ -38,3 +38,4 @@ Only the owner has access to the private keys.
 ## Seed Phrase
 
 A seed phrase is a list of words used to recover a wallet.
+Anyone with this phrase can access your funds.
