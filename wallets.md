@@ -11,3 +11,7 @@ It stores private keys that give access to your funds.
 ## Types of Wallets
 
 There are different types of crypto wallets depending on how they are used.
+
+### Hot Wallets
+
+Hot wallets are connected to the internet and are easy to use.
