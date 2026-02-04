@@ -21,7 +21,6 @@ Examples include mobile apps, browser extensions, and web wallets.
 ### Cold Wallets
 
 Cold wallets are not connected to the internet and offer higher security.
-
 They include hardware wallets and paper wallets.
 Hot wallets are convenient for daily use,
 while cold wallets are better for long-term storage.
@@ -40,7 +39,6 @@ Only the owner has access to the private keys.
 
 A seed phrase is a list of words used to recover a wallet.
 Anyone with this phrase can access your funds.
-
 Seed phrases should be stored offline in a secure place.
 
 ## Wallet Security Basics
