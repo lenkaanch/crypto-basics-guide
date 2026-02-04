@@ -29,3 +29,7 @@ while cold wallets are better for long-term storage.
 
 Custodial wallets are managed by exchanges or platforms.
 The service controls the private keys, not the user.
+
+## Non-Custodial Wallets
+
+Non-custodial wallets give full control to the user.
