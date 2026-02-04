@@ -50,3 +50,8 @@ Blocks are connected to each other, forming a secure chain of data.
 
 Because data is distributed across many nodes,
 it is very difficult to change or fake information.
+
+## Summary
+
+Blockchain enables transparent, secure, and decentralized value exchange
+without relying on traditional financial institutions.
