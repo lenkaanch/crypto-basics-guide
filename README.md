@@ -29,3 +29,8 @@ This makes transactions transparent and hard to change.
 
 Think of blockchain as a shared notebook.
 Everyone can see the records, but no one can secretly change them.
+
+### Real-Life Example
+
+Crypto can be used to send money to another country in minutes,
+without banks, delays, or high fees.
