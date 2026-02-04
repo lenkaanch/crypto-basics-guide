@@ -49,3 +49,4 @@ Never share your private keys or seed phrase.
 Beware of phishing websites and fake apps.
 Always use official wallet software and keep it updated.
 Create backups to avoid losing access to your funds.
+Use strong and unique passwords for wallet access.
