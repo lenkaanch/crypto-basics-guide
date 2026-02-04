@@ -38,3 +38,7 @@ Everyone can see the records, but no one can secretly change them.
 Crypto can be used to send money to another country in minutes,
 without banks, delays, or high fees.
 
+## Blockchain Basics
+
+Blockchain is a decentralized database that stores transaction records.
+It is shared across many computers instead of being controlled by one entity.
