@@ -24,3 +24,8 @@ People can send and receive value directly, without intermediaries.
 
 Crypto transactions are recorded on a public system called a blockchain.
 This makes transactions transparent and hard to change.
+
+### Simple Analogy
+
+Think of blockchain as a shared notebook.
+Everyone can see the records, but no one can secretly change them.
