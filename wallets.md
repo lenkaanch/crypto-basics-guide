@@ -33,5 +33,8 @@ The service controls the private keys, not the user.
 ## Non-Custodial Wallets
 
 Non-custodial wallets give full control to the user.
-
 Only the owner has access to the private keys.
+
+## Seed Phrase
+
+A seed phrase is a list of words used to recover a wallet.
