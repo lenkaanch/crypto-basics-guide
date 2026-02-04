@@ -56,3 +56,4 @@ Always send a small test transaction first.
 ## Choosing a Wallet
 
 The best wallet depends on your needs and experience.
+Beginners often start with simple mobile wallets.
