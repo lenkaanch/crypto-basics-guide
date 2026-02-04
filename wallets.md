@@ -22,3 +22,5 @@ Examples include mobile apps, browser extensions, and web wallets.
 Cold wallets are not connected to the internet and offer higher security.
 
 They include hardware wallets and paper wallets.
+Hot wallets are convenient for daily use,
+while cold wallets are better for long-term storage.
