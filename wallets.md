@@ -46,3 +46,4 @@ Seed phrases should be stored offline in a secure place.
 
 Security is critical when using crypto wallets.
 Never share your private keys or seed phrase.
+Beware of phishing websites and fake apps.
