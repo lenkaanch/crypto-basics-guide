@@ -41,3 +41,7 @@ A seed phrase is a list of words used to recover a wallet.
 Anyone with this phrase can access your funds.
 
 Seed phrases should be stored offline in a secure place.
+
+## Wallet Security Basics
+
+Security is critical when using crypto wallets.
