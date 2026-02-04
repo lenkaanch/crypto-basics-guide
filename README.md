@@ -42,3 +42,6 @@ without banks, delays, or high fees.
 
 Blockchain is a decentralized database that stores transaction records.
 It is shared across many computers instead of being controlled by one entity.
+
+Each transaction is grouped into a block.
+Blocks are connected to each other, forming a secure chain of data.
