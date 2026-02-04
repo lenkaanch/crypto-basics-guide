@@ -20,3 +20,5 @@ Examples include mobile apps, browser extensions, and web wallets.
 ### Cold Wallets
 
 Cold wallets are not connected to the internet and offer higher security.
+
+They include hardware wallets and paper wallets.
