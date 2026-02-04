@@ -45,3 +45,6 @@ It is shared across many computers instead of being controlled by one entity.
 
 Each transaction is grouped into a block.
 Blocks are connected to each other, forming a secure chain of data.
+
+Because data is distributed across many nodes,
+it is very difficult to change or fake information.
