@@ -48,3 +48,4 @@ Security is critical when using crypto wallets.
 Never share your private keys or seed phrase.
 Beware of phishing websites and fake apps.
 Always use official wallet software and keep it updated.
+Create backups to avoid losing access to your funds.
