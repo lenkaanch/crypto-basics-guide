@@ -52,3 +52,7 @@ Create backups to avoid losing access to your funds.
 Use strong and unique passwords for wallet access.
 Enable two-factor authentication whenever possible.
 Always send a small test transaction first.
+
+## Choosing a Wallet
+
+The best wallet depends on your needs and experience.
