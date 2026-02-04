@@ -16,3 +16,7 @@ There are different types of crypto wallets depending on how they are used.
 
 Hot wallets are connected to the internet and are easy to use.
 Examples include mobile apps, browser extensions, and web wallets.
+
+### Cold Wallets
+
+Cold wallets are not connected to the internet and offer higher security.
