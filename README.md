@@ -9,3 +9,10 @@ The goal of this project is to provide a clear and beginner-friendly explanation
 - what cryptocurrency is
 - how blockchain works
 - how people use crypto safely
+
+## Table of Contents
+
+- Introduction to Crypto
+- Blockchain Basics
+- Wallets
+- Security
