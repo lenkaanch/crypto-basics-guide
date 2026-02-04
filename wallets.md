@@ -58,3 +58,4 @@ Always send a small test transaction first.
 The best wallet depends on your needs and experience.
 Beginners often start with simple mobile wallets.
 For large amounts, hardware wallets are recommended.
+Using crypto means being responsible for your own security.
