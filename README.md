@@ -16,3 +16,8 @@ The goal of this project is to provide a clear and beginner-friendly explanation
 - Blockchain Basics
 - Wallets
 - Security
+
+## Introduction to Crypto
+
+Cryptocurrency is a form of digital money that works without banks.
+People can send and receive value directly, without intermediaries.
